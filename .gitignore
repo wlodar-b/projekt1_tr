@@ -1,0 +1,5 @@
+# Srodowisko wirtualne
+venv/
+.venv/
+ENV/
+env/
